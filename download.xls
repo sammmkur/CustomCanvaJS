@@ -1,0 +1,101 @@
+<table border='2px'><tr bgcolor='#87AFC6'>
+                                <th rowspan="3"><b>Employee Name<b></b></b></th>
+                                <th rowspan="3"><b>Section in Charge<b></b></b></th>
+                                <th rowspan="3"><b>Skill Level<b></b></b></th>
+                                <th colspan="5" class="text-center"><b>Sewing Inspector</b></th>
+                                <th colspan="7" class="text-center"><b>Fabric Inspector</b></th>
+                                <th colspan="5" class="text-center"><b>Accesories Inspector</b></th>
+                                <th colspan="4" class="text-center"><b>PPA Inspector</b></th>
+                                <th colspan="6" class="text-center"><b>Cutting Inspector</b></th>
+                                <th colspan="6" class="text-center"><b>Artwork Inspector</b></th>
+                                <th colspan="7" class="text-center"><b>Quality Auditor</b></th>
+                            </tr>
+
+                            <th><b>Understanding of defect </b></th>
+                            <th><b>Time Study </b></th>
+                            <th><b>Measurement</b></th>
+                            <th><b>Clockwise System </b></th>
+                            <th rowspan="2"><b>Total Score</b></th>
+
+                            <th><b>Understanding of defect </b></th>
+                            <th><b>Color Inspection </b></th>
+                            <th><b>Inspection Method (4 point system)</b></th>
+                            <th><b>Fabric width measurement </b></th>
+                            <th><b>Odour Checking</b></th>
+                            <th><b>Handfeel Checking</b></th>
+                            <th rowspan="2"><b>Total Score</b></th>
+
+                                <th><b>Understanding of defect </b></th>
+                                <th><b>Measurement </b></th>
+                                <th><b>Time study</b></th>
+                                <th><b>Approval Comparation </b></th>
+                                <th rowspan="2"><b>Total Score</b></th>
+
+
+                                <th><b>Understanding of defect </b></th>
+                                <th><b>Time study</b></th>
+                                <th><b>Measurement</b></th>
+                                <th rowspan="2"><b>Total Score</b></th>
+
+                                    <th><b>Understanding of defect </b></th>
+                                    <th><b>Measurement</b></th>
+                                    <th><b>Time study</b></th>
+                                    <th><b>Surface fabric</b></th>
+                                    <th><b>Spreading Quality</b></th>
+                                    <th rowspan="2"><b>Total Score</b></th>
+
+
+                                        <th><b>Understanding of defect </b></th>
+                                            <th><b>Measurement</b></th>
+                                            <th><b>Time study</b></th>
+                                            <th><b>Approval Comparation</b></th>
+                                            <th><b>Color inspection</b></th>
+                                            <th rowspan="2"><b>Total Score</b></th>
+
+                                                <th><b>First output checking </b></th>
+                                                    <th><b>Bulk Order Inspection</b></th>
+                                                    <th><b>AD &amp; Documents</b></th>
+                                                    <th><b>Sample Order Inspection</b></th>
+                                                    <th><b>General Knowledge</b></th>
+                                                        <th><b>Decision &amp; Escalation</b></th>
+                                                    <th rowspan="2"><b>Total Score</b></th>
+
+
+                        </tr>
+
+                            <th>30 </th>
+                            <th>20 </th>
+                            <th>20</th>
+                            <th>30 </th>
+                            <th>30 </th>
+                            <th>20 </th>
+                            <th>20 </th>
+                            <th>10 </th>
+                            <th>10 </th>
+                            <th>10 </th>
+                            <th>30 </th>
+                            <th>30 </th>
+                            <th>20 </th>
+                            <th>20</th>
+                            <th>40 </th>
+                            <th>30 </th>
+                            <th>30 </th>
+                            <th>30 </th>
+                            <th>20 </th>
+                            <th>20 </th>
+                            <th>15 </th>
+                            <th>15 </th>
+                            <th>30 </th>
+                            <th>20 </th>
+                            <th>20 </th>
+                            <th>15 </th>
+                            <th>15 </th>
+                            <th>20 </th>
+                            <th>20 </th>
+                            <th>20 </th>
+                            <th>10 </th>
+                            <th>10 </th>
+                            <th>20 </th>
+
+
+                        </tr><td rowspan="3">161200026 - NURIL AFWA</td><td rowspan="3">Cutting , </td><td>Standard</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td><b>A</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><td>Actual</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>B</td><td style="background-color:yellow;">C</td><td>B</td><td>A</td><td>B</td><td><b>B</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><td>Last review</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td><b>27-JUL-2021</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><td rowspan="3">161200052 - ASWINDA SULISTYANING BUDI</td><td rowspan="3">Quality Auditor</td><td>Standard</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td><b>A</b></td></tr><td>Actual</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>20</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td><b>A</b></td></tr><td>Last review</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td><b>27-JUL-2021</b></td></tr><td rowspan="3">180700113 - MELINDA HANIFA</td><td rowspan="3">Sewing, Fabric, PPA , Artwork , Quality Auditor</td><td>Standard</td><td>A</td><td>A</td><td>A</td><td>A</td><td><b>A</b></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td><b>A</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td>A</td><td>A</td><td>A</td><td><b>B</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td><b>B</b></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td><b>B</b></td></tr><td>Actual</td><td>A</td><td style="background-color:yellow;">C</td><td>B</td><td>A</td><td><b>A</b></td><td>A</td><td>B</td><td style="background-color:yellow;">C</td><td style="background-color:yellow;">C</td><td>B</td><td>B</td><td><b>A</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td>A</td><td style="background-color:yellow;">C</td><td style="background-color:yellow;">C</td><td><b>B</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td style="background-color:yellow;">C</td><td>B</td><td>B</td><td>B</td><td style="background-color:yellow;">C</td><td><b>B</b></td><td style="background-color:yellow;">C</td><td style="background-color:yellow;">C</td><td>B</td><td>B</td><td>B</td><td>B</td><td><b>B</b></td></tr><td>Last review</td><td>07-SEP-2021</td><td>07-SEP-2021</td><td>07-SEP-2021</td><td>07-SEP-2021</td><td><b>07-SEP-2021</b></td><td>07-SEP-2021</td><td>07-SEP-2021</td><td>07-SEP-2021</td><td>07-SEP-2021</td><td>07-SEP-2021</td><td>07-SEP-2021</td><td><b>27-JUL-2021</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td><b>28-JUL-2021</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>28-JUL-2021</td><td>28-JUL-2021</td><td>28-JUL-2021</td><td>28-JUL-2021</td><td>28-JUL-2021</td><td><b>28-JUL-2021</b></td><td>28-JUL-2021</td><td>28-JUL-2021</td><td>28-JUL-2021</td><td>28-JUL-2021</td><td>28-JUL-2021</td><td>28-JUL-2021</td><td><b>28-JUL-2021</b></td></tr><td rowspan="3">180800245 - DAMIRAH</td><td rowspan="3">Artwork , </td><td>Standard</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td><b>A</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><td>Actual</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td><b>A</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><td>Last review</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td>27-JUL-2021</td><td><b>27-JUL-2021</b></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></table>
